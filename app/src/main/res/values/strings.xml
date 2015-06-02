@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="assigments">Assignments (15%)</string>
+    <string name="participation">Participation (15%)</string>
+    <string name="project">Project (20%)</string>
+    <string name="quiz">Quizzes (20%)</string>
+    <string name="exam">Exam (30%)</string>
+    <string name="setExamMark">Set Exam Mark</string>
+    <string name="finalMark">Final Mark</string>
+    <string name="reset">Reset All</string>
+</resources>
